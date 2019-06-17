@@ -1,3 +1,5 @@
+## Project in Progress but feel free to look around 👀
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
